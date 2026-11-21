@@ -1,4 +1,4 @@
-# MSMU 0.3.0
+# MSMU 0.4.1
 # Mutipurpose SFS Management Utility
 # Or MSMU: SFS Management Utility to make it recursive.
 # By Engine
@@ -12,7 +12,7 @@ import webbrowser
 from PySide6.QtCore import QSize, Qt
 from PySide6.QtWidgets import QApplication, QMainWindow, QPushButton
 
-Ver = "0.4.0"
+Ver = "0.4.1"
 State = "Beta"
 
 # ========== Varibles ========== #
